@@ -1,3 +1,5 @@
 datasets/
 projects/
 *.csv
+*.xlsx
+~$*
