@@ -10,7 +10,7 @@ About 15 months: 31 mini tasks and 6 projects across seven phases (foundations, 
 |---|---|---|---|
 | 0 Foundations | [Task 01: Telco Customer Churn](00-foundations/task-01-telco-churn/README.md) | Excel | Done |
 | 0 Foundations | [Task 02: Bank Marketing](00-foundations/task-02-bank-marketing/README.md) | Excel | Done |
-| 0 Foundations | Task 03: Nashville Housing (data cleaning) | Excel | Planned |
+| 0 Foundations | [Task 03: Nashville Housing (data cleaning)](00-foundations/task-03-nashville-housing/README.md) | Excel | Done |
 
 ## Repo layout
 One folder per phase (`00-foundations` to `06-forecasting`). Each task has its own folder with a `README.md` and a `screenshots/` folder.
