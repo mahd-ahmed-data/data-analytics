@@ -55,43 +55,36 @@ The screenshots below document the cleaning process and validation results.
 
 ![Blank PropertyAddress before cleaning](screenshots/01-blank-address-before.png)
 
-[Open screenshot 01](screenshots/01-blank-address-before.png)
 
 ### 2. Blank PropertyAddress (after cleaning)
 
 ![Blank PropertyAddress after cleaning](screenshots/02-blank-address-after.png)
 
-[Open screenshot 02](screenshots/02-blank-address-after.png)
 
 ### 3. SoldAsVacant (before standardization)
 
 ![SoldAsVacant counts before standardization](screenshots/03-soldasvacant-before.png)
 
-[Open screenshot 03](screenshots/03-soldasvacant-before.png)
 
 ### 4. SoldAsVacant (after standardization)
 
 ![SoldAsVacant counts after standardization](screenshots/04-soldasvacant-after.png)
 
-[Open screenshot 04](screenshots/04-soldasvacant-after.png)
 
 ### 5. Remove Duplicates (selected columns)
 
 ![Excel Remove Duplicates dialog](screenshots/05-remove-duplicates.png)
 
-[Open screenshot 05](screenshots/05-remove-duplicates.png)
 
 ### 6. Remove Duplicates (result)
 
 ![Excel duplicate-removal result](screenshots/05b-remove-duplicates-result.png)
 
-[Open screenshot 06](screenshots/05b-remove-duplicates-result.png)
 
 ### 7. Final cleaned worksheet
 
 ![Final cleaned worksheet](screenshots/06-final-clean-sheet.png)
 
-[Open final worksheet screenshot](screenshots/06-final-clean-sheet.png)
 
 ## Files
 
