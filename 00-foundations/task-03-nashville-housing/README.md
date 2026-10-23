@@ -88,5 +88,4 @@ The screenshots below document the cleaning process and validation results.
 
 ## Files
 
-- `work/`: the cleaned xlsx.
 - `screenshots/`: before-and-after cleaning evidence, duplicate-removal dialog and result, and the final worksheet.
