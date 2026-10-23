@@ -9,7 +9,7 @@ About 15 months: 31 mini tasks and 6 projects across seven phases (foundations, 
 | Phase | Task | Tool | Status |
 |---|---|---|---|
 | 0 Foundations | [Task 01: Telco Customer Churn](00-foundations/task-01-telco-churn/README.md) | Excel | Done |
-| 0 Foundations | Task 02: Bank Marketing | Excel | Planned |
+| 0 Foundations | [Task 02: Bank Marketing](00-foundations/task-02-bank-marketing/README.md) | Excel | Done |
 | 0 Foundations | Task 03: Nashville Housing (data cleaning) | Excel | Planned |
 
 ## Repo layout
