@@ -51,39 +51,21 @@ One row per recorded property sale. The same ParcelID can appear more than once 
 
 The screenshots below document the cleaning process and validation results.
 
-### 1. Blank PropertyAddress (before cleaning)
+## Screenshots
+**Blank PropertyAddress: 29 before, 0 after**
+![Blank addresses before](screenshots/01-blank-address-before.png)
+![Blank addresses after](screenshots/02-blank-address-after.png)
 
-![Blank PropertyAddress before cleaning](screenshots/01-blank-address-before.png)
+**SoldAsVacant: N, Y, No, Yes before; No, Yes after**
+![SoldAsVacant before](screenshots/03-soldasvacant-before.png)
+![SoldAsVacant after](screenshots/04-soldasvacant-after.png)
 
+**Remove Duplicates: five columns ticked, 104 removed, 56,373 remain**
+![Remove Duplicates dialog](screenshots/05-remove-duplicates.png)
+![Remove Duplicates result](screenshots/05b-remove-duplicates-result.png)
 
-### 2. Blank PropertyAddress (after cleaning)
-
-![Blank PropertyAddress after cleaning](screenshots/02-blank-address-after.png)
-
-
-### 3. SoldAsVacant (before standardization)
-
-![SoldAsVacant counts before standardization](screenshots/03-soldasvacant-before.png)
-
-
-### 4. SoldAsVacant (after standardization)
-
-![SoldAsVacant counts after standardization](screenshots/04-soldasvacant-after.png)
-
-
-### 5. Remove Duplicates (selected columns)
-
-![Excel Remove Duplicates dialog](screenshots/05-remove-duplicates.png)
-
-
-### 6. Remove Duplicates (result)
-
-![Excel duplicate-removal result](screenshots/05b-remove-duplicates-result.png)
-
-
-### 7. Final cleaned worksheet
-
-![Final cleaned worksheet](screenshots/06-final-clean-sheet.png)
+**Final clean sheet with the split address columns**
+![Final clean sheet](screenshots/06-final-clean-sheet.png)
 
 
 ## Files
