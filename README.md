@@ -19,4 +19,4 @@ One folder per phase (`00-foundations` to `06-forecasting`). Each task has its o
 Raw datasets are not committed because reuse terms are often not stated. Each task README links to the original source.
 
 ## Author
-Mahd Ahmed · [LinkedIn](https://linkedin.com/in/mahddddd-ahmed)
+Mahd Ahmed · [LinkedIn](https://linkedin.com/in/mahd-ahmed)
