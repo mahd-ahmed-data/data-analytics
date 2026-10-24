@@ -3,6 +3,7 @@
 ## Source and grain
 inventory.csv: 106,367 rows, 15 columns, no blank cells. MRP forecast quantities for notebook and desktop components. Source: Source: "inventory" by veeralakrishna on Kaggle
 (https://www.kaggle.com/datasets/veeralakrishna/inventory). License: CC0: Public Domain.
+
 Grain: one component (COMP_ITEM_ID) for one product (PRODUCT_ID), in one channel (CHANNEL_ID), for one demand week (DMND_WEEK_STRT_DATE), as forecast in one forecast version (VRSN_WEEK_STRT_DATE), with the quantity in MRP_FCST_QTY. The file has 3,098 distinct items, so one row is not one item.
 
 ## Quality problems
