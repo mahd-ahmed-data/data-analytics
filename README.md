@@ -54,7 +54,8 @@ About 15 months: 31 mini tasks and 6 projects across seven phases (foundations, 
 One folder per phase (`00-foundations` to `06-forecasting`). Each task has its own folder with a `README.md`, a `screenshots/` folder and a `work/` folder with the Excel working copy.
 
 ## Data policy
-CSV files are not committed. Excel working files are committed as proof of the work. Each workbook keeps the original data on its `raw` sheet, so a dataset is included only where its source license allows it. Each task README links to the original source.
+## Data policy
+CSV files are not committed. Excel working files are committed as proof of the work, and each workbook keeps the original data on its `raw` sheet. I only use datasets whose license allows redistribution, and each task README states the license and links to the original source. If a license is unknown or does not allow redistribution, the dataset is not committed and the work stays local.
 
 ## Author
 Mahd Ahmed · [LinkedIn](https://linkedin.com/in/mahd-ahmed)
