@@ -21,8 +21,7 @@ About 15 months: 31 mini tasks and 6 projects across seven phases (foundations, 
 | 0 Foundations | [Task 01: Telco Customer Churn](00-foundations/task-01-telco-churn/README.md) | Excel | Done |
 | 0 Foundations | [Task 02: Bank Marketing](00-foundations/task-02-bank-marketing/README.md) | Excel | Done |
 | 0 Foundations | [Task 03: Nashville Housing (data cleaning)](00-foundations/task-03-nashville-housing/README.md) | Excel | Done |
-| 1 Excel | [Task 04: Sales analysis with PivotTables](01-excel
-/task-04-superstore-pivots/README.md) | Excel | Planned |
+| 1 Excel | [Task 04: Sales analysis with PivotTables](01-excel/task-04-superstore-pivots/README.md) | Excel | Planned |
 | 1 Excel | Task 05: Combine and clean multiple files with Power Query | Excel | Planned |
 | 1 Excel | Task 06: Lookups and conditional logic | Excel | Planned |
 | 1 Excel | Task 07: KPI dashboard with charts and slicers | Excel | Planned |
