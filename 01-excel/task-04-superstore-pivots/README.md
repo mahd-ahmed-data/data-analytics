@@ -4,7 +4,7 @@
 Which categories, states, months and discount levels make or lose money in this sales data?
 
 ## Source
-Superstore Sales dataset (Kaggle): [(https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)]. 9,994 rows, one row per product line in an order, order dates Jan 2014 to Dec 2017. The original CSV is kept in `datasets/raw` and is not committed.
+Superstore Sales dataset (Kaggle): https://www.kaggle.com/datasets/vivek468/superstore-dataset-final. 9,994 rows, one row per product line in an order, order dates Jan 2014 to Dec 2017. The original CSV is kept in `datasets/raw` and is not committed.
 
 ## Grain
 One row per product line within an order (Row ID). An Order ID can appear on several rows.
