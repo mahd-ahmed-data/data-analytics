@@ -44,14 +44,34 @@ Totals: sales 2,297,200.86, cost 2,010,803.84, profit 286,397.02, margin 12.5%.
 - `work/sales-pivottables.xlsx`: sheets `raw`, `clean`, `P1-category`, `P2-state`, `P3-trend`, `P4-discount`.
 
 ## Screenshots
+
+
+### 1. Raw data check
+The `raw` sheet as imported: 9,994 rows, untouched.
+
 ![Raw data check](screenshots/01-raw-data-check.png)
+
+### 2. Quality checks
+Eight checks and their results, including the 449 short postal codes before the fix and 0 after.
 
 ![Quality checks](screenshots/02-quality-checks.png)
 
+### 3. Pivot 1: Category and Sub-Category
+Sales, Cost, Profit and Margin %, with the loss-making sub-categories listed first in each category.
+
 ![Category and Sub-Category](screenshots/03-pivot-category-profit.png)
+
+### 4. Pivot 2: State
+Sales, Profit and Margin % by state, sorted by profit; 10 of 49 states lose money.
 
 ![State](screenshots/04-pivot-region-state.png)
 
+### 5. Pivot 3: Monthly trend
+Sales by month for each year, 2014 to 2017.
+
 ![Monthly trend](screenshots/05-pivot-monthly-trend.png)
+
+### 6. Pivot 4: Discount bands
+Order lines, total profit and average profit per line for each discount band.
 
 ![Discount bands](screenshots/06-pivot-discount-bands.png)
